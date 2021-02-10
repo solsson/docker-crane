@@ -1,5 +1,7 @@
 # Crane-in-docker with shell
 
+Archived: See https://github.com/solsson/docker-crane/issues/2
+
 [Crane](https://github.com/google/go-containerregistry/blob/master/cmd/crane/doc/crane.md)
 is an excellent tool for poking around with images from within a container in a cluster
 and there's even an [official](https://gcr.io/go-containerregistry/github.com/google/go-containerregistry/cmd/crane) image.
